@@ -1,8 +1,8 @@
 #  Coding test
 
-Using the Gulp boilerplate, create the app from the visuals provided. (Gulp instructions in below)
+Using the Gulp boilerplate, create the app from the visuals provided. (/visuals) (Gulp instructions in below)
 
-There is no need to use any CSS / JS frameworks, just plain HTML, CSS/SCSS and jQuery is fine.
+There is no need to use any CSS / JS frameworks, just plain HTML, CSS/SCSS and jQuery is fine.<br/>
 The images required are in the /build/assets/images folder.
 
 We are interested in your attention to detail, organisation and problem solving skills.
@@ -27,7 +27,7 @@ This is a skeleton template to help start building the front end of a website/ap
 
 <strong>Step 1:</strong>
 
-CD into the directory where the gulpfile.js is stored.
+Using the terminal CD into the directory where the gulpfile.js is stored.
 
 Install the modules required to use gulp, these are used in our 'gulpfile.js' file. The modules required are declared in the 'package.json' file:
 
@@ -43,6 +43,6 @@ Gulp will start and run any tasks setup in 'gulpfile.js'. It will watch for any 
 
 <strong>Step 4:</strong>
 
-Make sure any js or css edits are made in the /src/ directory. GULP will output the final minified versions in the distribution/build directory.
+Make sure any js or css edits are made in the /src/ directory. Gulp will output the final minified versions in the distribution/build directory.
 
 Code away!!
