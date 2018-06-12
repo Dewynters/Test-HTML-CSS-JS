@@ -1,6 +1,6 @@
 #  Coding test
 
-Using the Gulp boilerplate, create the app from the visuals provided. (instructions in below)
+Using the Gulp boilerplate, create the app from the visuals provided. (Gulp instructions in below)
 
 There is no need to use any CSS / JS frameworks, just plain HTML, CSS/SCSS and jQuery is fine.
 The images required are in the /build/assets/images folder.
